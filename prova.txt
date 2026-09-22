@@ -1,1 +1,5 @@
+ HEAD
 Canvi diferent fet desde la branca main
+
+Canvi realitzat des de la branca segona
+ segona
